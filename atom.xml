@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小詹的博客</title>
+  
+  <subtitle>小詹</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jadelin.vip/"/>
+  <updated>2021-07-07T21:38:03.098Z</updated>
+  <id>http://jadelin.vip/</id>
+  
+  <author>
+    <name>小詹</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo,搭建个人博客</title>
+    <link href="http://jadelin.vip/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
+    <id>http://jadelin.vip/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
+    <published>2020-03-06T13:28:57.000Z</published>
+    <updated>2021-07-07T21:38:03.098Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>npm,看这篇就够了</title>
+    <link href="http://jadelin.vip/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/"/>
+    <id>http://jadelin.vip/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</id>
+    <published>2020-02-29T13:12:27.000Z</published>
+    <updated>2021-07-07T21:38:01.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在研究  &lt;code&gt;npm&lt;/code&gt; 组件发布，碰到一些相关问题，算是整理一下。&lt;/p&gt;
+&lt;h3 id=&quot;涉及内容&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="npm" scheme="http://jadelin.vip/categories/npm/"/>
+    
+    
+      <category term="npm" scheme="http://jadelin.vip/tags/npm/"/>
+    
+  </entry>
+  
+</feed>

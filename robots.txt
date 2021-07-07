@@ -1,0 +1,7 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+
+Sitemap: http://jadelin.vip/sitemap.xml
+Sitemap: http://jadelin.vip/baidusitemap.xml
