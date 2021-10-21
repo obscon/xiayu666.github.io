@@ -5,9 +5,9 @@
   <subtitle>小詹</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://jadelin.vip/"/>
+  <link href="http://jadelin.live/"/>
   <updated>2021-07-07T22:09:35.740Z</updated>
-  <id>http://jadelin.vip/</id>
+  <id>http://jadelin.live/</id>
   
   <author>
     <name>小詹</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ceshi</title>
-    <link href="http://jadelin.vip/2021/07/08/ceshi/"/>
-    <id>http://jadelin.vip/2021/07/08/ceshi/</id>
+    <link href="http://jadelin.live/2021/07/08/ceshi/"/>
+    <id>http://jadelin.live/2021/07/08/ceshi/</id>
     <published>2021-07-07T22:09:14.000Z</published>
     <updated>2021-07-07T22:09:35.740Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>免杀过火绒</title>
-    <link href="http://jadelin.vip/2021/07/08/ce-shi/"/>
-    <id>http://jadelin.vip/2021/07/08/ce-shi/</id>
+    <link href="http://jadelin.live/2021/07/08/ce-shi/"/>
+    <id>http://jadelin.live/2021/07/08/ce-shi/</id>
     <published>2021-07-07T21:51:11.000Z</published>
     <updated>2021-07-07T22:08:27.118Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>hexo,搭建个人博客</title>
-    <link href="http://jadelin.vip/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
-    <id>http://jadelin.vip/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
+    <link href="http://jadelin.live/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
+    <id>http://jadelin.live/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
     <published>2020-03-06T13:28:57.000Z</published>
     <updated>2021-07-07T21:38:03.098Z</updated>
     
@@ -84,8 +84,8 @@
   
   <entry>
     <title>npm,看这篇就够了</title>
-    <link href="http://jadelin.vip/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/"/>
-    <id>http://jadelin.vip/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</id>
+    <link href="http://jadelin.live/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/"/>
+    <id>http://jadelin.live/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</id>
     <published>2020-02-29T13:12:27.000Z</published>
     <updated>2021-07-07T21:53:04.579Z</updated>
     
@@ -102,10 +102,10 @@
     
     </summary>
     
-      <category term="npm" scheme="http://jadelin.vip/categories/npm/"/>
+      <category term="npm" scheme="http://jadelin.live/categories/npm/"/>
     
     
-      <category term="npm" scheme="http://jadelin.vip/tags/npm/"/>
+      <category term="npm" scheme="http://jadelin.live/tags/npm/"/>
     
   </entry>
   
